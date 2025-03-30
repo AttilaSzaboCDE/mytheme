@@ -8,7 +8,7 @@ There will be more updates about syntax and UI fixing for better experience.
 **Have fun with that!**
 
 ## Preview
-![DarkPig Theme Preview](./img/preview_img01.png)
+![DarkPig Theme Preview](https://github.com/AttilaSzaboCDE/mytheme/blob/main/img/preview_img01.png?raw=true)
 
 
 

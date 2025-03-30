@@ -1,0 +1,30 @@
+{
+  "name": "darkpig-theme",
+  "displayName": "DarkPig Theme",
+  "publisher": "AttilaSzaboCDE",
+  "description": "This is an extension for VS Code that provides a dark theme with a piggy style.",
+  "icon": "off_pic.png",
+  "version": "1.0.3",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DarkPig Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DarkPig Theme-color-theme.json"
+      }
+    ],
+    "files": [
+    "themes/DarkPig Theme-color-theme.json",
+    "themes/Off_Pic.png",
+    "img/",
+    "README.md"
+  ]
+  }
+  
+}
